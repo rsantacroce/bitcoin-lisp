@@ -1,12 +1,12 @@
-# BitcoinLisp
+# BitcoinLisp (WIP)
 
-BitcoinLisp is a Bitcoin Core implementation written in Lisp. It aims to provide a fast, efficient, and reliable implementation of the Bitcoin protocol, with the added benefits of Lisp's expressiveness and flexibility.
+BitcoinLisp is an honest attempt to create a Bitcoin Core implementation written in Lisp. It aims to provide a fast, efficient, and reliable implementation of the Bitcoin protocol, with the added benefits of Lisp's expressiveness and flexibility.
 
 ## Getting Started
 
 To use BitcoinLisp, you will need to have a working installation of Lisp on your machine. Currently, BitcoinLisp has been tested and is known to work on SBCL, but it should be compatible with other Common Lisp implementations as well.
 
-Once you have Lisp installed, you can simply clone this repository and run `bitcoinlisp.lisp` to start the BitcoinLisp node.
+Once you have Lisp installed, you can simply clone this repository and run `bitcoin.lisp` to start the BitcoinLisp node (WIP).
 
 ## Features
 
