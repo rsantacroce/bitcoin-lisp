@@ -14,3 +14,5 @@
 
 (defun print-genesis-message ()
   (format t "Genesis Block: ~a~%Decoded Message: ~a~%" *genesis-bytes* *message*))
+
+(bitcoin-lisp-main:main '("test"))
